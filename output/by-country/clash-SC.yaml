@@ -6,10 +6,10 @@ log-level: info
 proxies:
 - name: 🇸🇨 SC 01 - xiaohe
   type: ss
-  server: 45.158.199.33
-  port: 4
-  cipher: chacha20-ietf-poly1305
-  password: 9qGcNiZj4uCi7DGSjxlg5Q
+  server: 45.207.207.25
+  port: 443
+  cipher: aes-256-gcm
+  password: gj1+XKulKV0nmw6IThckOkkJh5DSM7+C
   udp: true
 proxy-groups:
 - name: PROXIES
